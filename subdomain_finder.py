@@ -1,6 +1,11 @@
 """
 Subdomain Finder
 Author: GHADIR BIN DHABBAH
+
+Note:
+- This script is for educational and research purposes only. Do not use it for malicious activities.
+- Always obtain permission before scanning any systems you do not own or have explicit authorization for.
+
 """
 
 import requests
