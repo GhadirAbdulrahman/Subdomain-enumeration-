@@ -1,2 +1,2 @@
 # Subdomain-enumeration-
-Script of listing out all the valid subdomains that are part of the larger domain
+A Python script to find subdomains for a given domain
