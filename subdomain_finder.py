@@ -1,5 +1,7 @@
-#Subdomain Finder
-#Author:GHADIR BIN DHABBAH
+"""
+Subdomain Finder
+Author: GHADIR BIN DHABBAH
+"""
 
 import requests
 import re
@@ -49,3 +51,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
